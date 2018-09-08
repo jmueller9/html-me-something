@@ -4,11 +4,15 @@ p{
     font-weight: bold;
     color: whitesmoke;
     }
-.golf-image{
+#golf-image{
     background-image: url("images/golf.jpg");
     background-position: center;
     height: 300px;
     background-size: cover;
+}
+.courses{
+    text-align: center;
+    color: white;
 }
 .golf-caption{
     display: block;
