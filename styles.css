@@ -1,0 +1,47 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: whitesmoke;
+    }
+.golf-image{
+    background-image: url("images/golf.jpg");
+    background-position: center;
+    height: 300px;
+    background-size: cover;
+}
+.golf-caption{
+    display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 14px;
+  margin-left: 625px;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 25%;
+  color:whitesmoke;
+  opacity: 0.9;
+}
+h1{
+    color: green;
+    text-align: center;
+}
+body{
+    background-color:grey;
+    opacity: .9;
+}
+
+.uppercase, .story{
+    text-transform: capitalize;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    border: 3px solid white;   
+    margin: auto 10;
+    position: sticky;
+    padding: 10px;
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
